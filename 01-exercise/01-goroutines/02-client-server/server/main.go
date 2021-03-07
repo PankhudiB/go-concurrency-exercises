@@ -19,7 +19,7 @@ func main() {
 		if err != nil {
 			continue
 		}
-		handleConn(connection)
+		go handleConn(connection)
 	}
 }
 
