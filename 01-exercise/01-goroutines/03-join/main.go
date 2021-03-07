@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	//TODO: modify the program
+	//modify the program
 	// to print the value as 1
 	// deterministically.
 

@@ -5,7 +5,7 @@ import (
 	"sync"
 )
 
-//TODO: run the program and check that variable i
+//run the program and check that variable i
 // was pinned for access from goroutine even after
 // enclosing function returns.
 
